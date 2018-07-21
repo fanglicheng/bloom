@@ -1,0 +1,64 @@
+
+size:   100000     hash func: 1     load:    96523      false positive (out of 10000):  9643
+size:   100000     hash func: 2     load:    99887      false positive (out of 10000):  9972
+size:   100000     hash func: 3     load:    99996      false positive (out of 10000):  9992
+size:   100000     hash func: 4     load:   100000      false positive (out of 10000):  9991
+size:   100000     hash func: 5     load:   100000      false positive (out of 10000):  9996
+size:   100000     hash func: 6     load:   100000      false positive (out of 10000):  9993
+size:   100000     hash func: 7     load:   100000      false positive (out of 10000):  9989
+
+size:   200000     hash func: 1     load:   162452      false positive (out of 10000):  8238
+size:   200000     hash func: 2     load:   193084      false positive (out of 10000):  9365
+size:   200000     hash func: 3     load:   198682      false positive (out of 10000):  9812
+size:   200000     hash func: 4     load:   199754      false positive (out of 10000):  9942
+size:   200000     hash func: 5     load:   199949      false positive (out of 10000):  9975
+size:   200000     hash func: 6     load:   199992      false positive (out of 10000):  9986
+size:   200000     hash func: 7     load:   199999      false positive (out of 10000):  9991
+
+size:   400000     hash func: 1     load:   226785      false positive (out of 10000):  5808
+size:   400000     hash func: 2     load:   325767      false positive (out of 10000):  6715
+size:   400000     hash func: 3     load:   368293      false positive (out of 10000):  7806
+size:   400000     hash func: 4     load:   386504      false positive (out of 10000):  8709
+size:   400000     hash func: 5     load:   394248      false positive (out of 10000):  9302
+size:   400000     hash func: 6     load:   397546      false positive (out of 10000):  9643
+size:   400000     hash func: 7     load:   398965      false positive (out of 10000):  9815
+
+size:   800000     hash func: 1     load:   274837      false positive (out of 10000):  3685
+size:   800000     hash func: 2     load:   456573      false positive (out of 10000):  3353
+size:   800000     hash func: 3     load:   575403      false positive (out of 10000):  3734
+size:   800000     hash func: 4     load:   653202      false positive (out of 10000):  4472
+size:   800000     hash func: 5     load:   704039      false positive (out of 10000):  5337
+size:   800000     hash func: 6     load:   737137      false positive (out of 10000):  6094
+size:   800000     hash func: 7     load:   759034      false positive (out of 10000):  6951
+
+size:  1600000     hash func: 1     load:   304903      false positive (out of 10000):  2033
+size:  1600000     hash func: 2     load:   552447      false positive (out of 10000):  1226
+size:  1600000     hash func: 3     load:   752698      false positive (out of 10000):  1082
+size:  1600000     hash func: 4     load:   914568      false positive (out of 10000):  1071
+size:  1600000     hash func: 5     load:  1045625      false positive (out of 10000):  1182
+size:  1600000     hash func: 6     load:  1151402      false positive (out of 10000):  1407
+size:  1600000     hash func: 7     load:  1237011      false positive (out of 10000):  1669
+
+size:  3200000     hash func: 1     load:   321384      false positive (out of 10000):  1062
+size:  3200000     hash func: 2     load:   610867      false positive (out of 10000):   387
+size:  3200000     hash func: 3     load:   871142      false positive (out of 10000):   191
+size:  3200000     hash func: 4     load:  1105309      false positive (out of 10000):   124
+size:  3200000     hash func: 5     load:  1315869      false positive (out of 10000):   122
+size:  3200000     hash func: 6     load:  1505081      false positive (out of 10000):   105
+size:  3200000     hash func: 7     load:  1675099      false positive (out of 10000):   124
+
+size:  6400000     hash func: 1     load:   329970      false positive (out of 10000):   531
+size:  6400000     hash func: 2     load:   643309      false positive (out of 10000):   103
+size:  6400000     hash func: 3     load:   940195      false positive (out of 10000):    31
+size:  6400000     hash func: 4     load:  1221759      false positive (out of 10000):     8
+size:  6400000     hash func: 5     load:  1488704      false positive (out of 10000):     6
+size:  6400000     hash func: 6     load:  1741606      false positive (out of 10000):     6
+size:  6400000     hash func: 7     load:  1981749      false positive (out of 10000):     1
+
+size: 12800000     hash func: 1     load:   334342      false positive (out of 10000):   302
+size: 12800000     hash func: 2     load:   660131      false positive (out of 10000):    29
+size: 12800000     hash func: 3     load:   977434      false positive (out of 10000):     5
+size: 12800000     hash func: 4     load:  1286278      false positive (out of 10000):     1
+size: 12800000     hash func: 5     load:  1586928      false positive (out of 10000):     0
+size: 12800000     hash func: 6     load:  1879655      false positive (out of 10000):     0
+size: 12800000     hash func: 7     load:  2165085      false positive (out of 10000):     0
